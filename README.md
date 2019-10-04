@@ -9,14 +9,15 @@ Of these four programs, Gnuplot enables the most exquisite control over the appe
 - <A name="https://github.com/wojdyr/fityk"> fityk </A> $110 for access to binaries for one month, source code available at github.<BR>
 - <A href="http://en.wikipedia.org/wiki/Gnuplot"> gnuplot wiki</A> open source, free
 - <A href="http://gnuplot.info"> Gnuplot main page </a> Do not be put off by the 1990s webpage. Has a vast collection of examples and scripts.
-- <A href="http://pdb.finkproject.org/pdb/package.php/qgfe"> qgfe</a> gui for gnuplot</A>open source, free.
-- <A href="http://www.gnuplotting.org"> gnuplotting </a> A source of inspiration. 
+- <A href="http://pdb.finkproject.org/pdb/package.php/qgfe"> qgfe</A> gui for gnuplot</A>open source, free.
+- <A href="http://www.gnuplotting.org"> gnuplotting </A> A source of inspiration. 
 - <A href="http://plasma-gate.weizmann.ac.il/Grace/"> Grace </A> (open-source) 
 - <A href="https://en.wikipedia.org/wiki/Xmgrace"> Grace (xmgrace or xmgr) wiki </A> open source, free
 - <A href="http://www.graphpad.com/welcome.htm"> GraphPad </A> $$$ Requries an annual license.
 - <A href="http://www.slac.stanford.edu/grp/ek/hippodraw/"> HippoDraw </A> (open-source)
 - <A href="http://www.wavemetrics.com/products/igorpro/dataanalysis.htm"> IGOR pro  </A>$$
 - <A href="http://synergy.com/curvefitting.htm?gclid=CN2ot7701K4CFQmMtgod83p-dw"> Kalidagraph </A>$$
+- <A href="https://matplotlib.org">Matplotlib</A> the leading Python plotting package.
 - <A href="https://en.wikipedia.org/wiki/Matplotlib">  matplotlib wiki </A>
 - <A href="http://www.originlab.com/index.aspx?go=Products/Origin/DataAnalysis/CurveFitting/NonlinearFitting"> Origin </A>$$$
 - <A href="http://en.wikipedia.org/wiki/QtiPlot"> Qtiplot (like Origin but cheaper)</A>$
@@ -32,4 +33,4 @@ Of these four programs, Gnuplot enables the most exquisite control over the appe
 - <A href="http://www.fileguru.com/downloads/nonlinear_curve_fitting/freeware"> List of curve fitting software </A>
 - <A href="http://statpages.org/nonlin.html"> Nonlinear Curve-Fitting, Webpage</a>
 - <A href="http://josiah.berkeley.edu/Instructional/NumbersFromGraphs/">Manual grabbing of data off a plot:</A> instructions for pdf-->svg-->grep x-y coordinates to text file. Easy to take snapshot (.jpg) of pdf file and use /Applications/plotdigitizer. </A>                                                                                                    
-<p><A href="http://plotdigitizer.sourceforge.net/">plotdigitizer</A>: a java program (ver. 2.5 in /Applications), bitmap (*.png) to vector converter, pick points or outline curve and record X,Y values for reploting in another program. Option for log scale. </p><BR>
+- <A href="http://plotdigitizer.sourceforge.net/">plotdigitizer</A>: a java program (ver. 2.5 in /Applications), bitmap (*.png) to vector converter, pick points or outline curve and record X,Y values for reploting in another program. Option for log scale. 
