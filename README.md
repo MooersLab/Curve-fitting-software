@@ -17,7 +17,7 @@ Of these four programs, Gnuplot enables the most exquisite control over the appe
 - <A href="http://www.slac.stanford.edu/grp/ek/hippodraw/"> HippoDraw </A> (open-source)
 - <A href="http://www.wavemetrics.com/products/igorpro/dataanalysis.htm"> IGOR pro  </A>$$
 - <A href="http://synergy.com/curvefitting.htm?gclid=CN2ot7701K4CFQmMtgod83p-dw"> Kalidagraph </A>$$
-- <A href="https://matplotlib.org">Matplotlib</A> the leading Python plotting package. Built by scientists.
+- <A href="https://matplotlib.org">Matplotlib</A> the leading Python plotting package. Built by scientists. 30+ high-level plotting package are built on top of it. These are great for quick plots but not always for publication.
 - <A href="https://en.wikipedia.org/wiki/Matplotlib">  matplotlib, wikipedia </A>
 - <A href="http://www.originlab.com/index.aspx?go=Products/Origin/DataAnalysis/CurveFitting/NonlinearFitting"> Origin </A>$$$
 - <A href="http://en.wikipedia.org/wiki/QtiPlot"> Qtiplot (like Origin but cheaper)</A>$
