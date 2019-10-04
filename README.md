@@ -5,7 +5,7 @@
 Of these four programs, Gnuplot enables the most exquisite control over the appearance of the output. Matplotlib is a close second to Gnuplot, but the syntax of its scripting language is baffling at first.</p>
 
 - <A href="http://boomer.org"> boomer</A>--a pharmokinetic package by David Bourne  Ph.D. OUHSC College of Pharmacy 
-- <A name="https://github.com/wojdyr/fityk"> fityk  </A> $110 for access to binaries for one month. Source code on github. Avaialble via macports on the Mac.
+- <A name="http://fityk.nieto.pl"> fityk </a> Nonlinear curve fitting for scientists. Available in macports.
 - <A href="http://en.wikipedia.org/wiki/Gnuplot"> gnuplot wikipedia</A> open source, free. Built by scientists.
 - <A href="http://gnuplot.info"> Gnuplot main page </a> Do not be put off by the 1990s webpage. Has a vast collection of examples and scripts.
 - <A href="http://pdb.finkproject.org/pdb/package.php/qgfe"> qgfe</A> gui for gnuplot</A>open source, free.
