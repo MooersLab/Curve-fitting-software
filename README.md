@@ -1,7 +1,7 @@
 
 # Links to free and proprietary curve fitting software. 
 
-<p>I recommend mastering figure-making in one program that allows the use of scripts. The scripts enable customization and control over the final appeaerance of the plot. Excellent free choices are Gnuplot, Grace, Matplotlib in Python, and R.
+<p>I recommend mastering curve fitting in one program that allows the use of scripts. The scripts facilitate reproducible work and thereby save time. Excellent free choices are Gnuplot, Grace, Matplotlib in Python, and R.
 Of these four programs, Gnuplot enables the most exquisite control over the appearance of the output. Matplotlib is a close second to Gnuplot, but the syntax of its scripting language is baffling at first. Curve fitting is also available in proprietary packages like Matlab, Mathematica, and JMP. Plots made in Excel are good rough drafts.</p>
 
 - <A href="http://boomer.org"> boomer</A> a pharmokinetic package by David Bourne  Ph.D. OUHSC College of Pharmacy 
