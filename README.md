@@ -24,6 +24,7 @@ Of these four programs, Gnuplot enables the most exquisite control over the appe
 - <A href="http://www.r-project.org/"> R project </A>Open source, Free
 - <A href="https://en.wikipedia.org/wiki/R_(programming_language)"> R wiki </A>
 - <A href="https://rstudio.com"> Rstudio</a>, browser-like interface that supports plotting with R</a>
+- <a href="https://en.wikipedia.org/wiki/SciDAVis"> SciDAVis</a>,free </a>
 - <A href="http://www.sigmaplot.com/"> SigmaPlot </A>$$$ 
 - <A href="http://home.gna.org/veusz">  Veusz</A> a scientific plotting program built with Python.</a> Open-source, free. Like Matplotlib but with atrractive gui.
 - <A href="http://www.softzymics.com/order.asp">  VisualEnzymics 2010, requires Igor Pro </A>$$
