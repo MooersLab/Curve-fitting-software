@@ -1,5 +1,5 @@
-#### Curve-fitting-software
-###A collection of links to free and proprietary curve fitting software. 
+
+# Links to free and proprietary curve fitting software. 
 
 <p>I recommend mastering figure-making in one program that allows the use of scripts. The scripts enable customization and control over the final appeaerance of the plot. Excellent free choices are Gnuplot, Grace, Matplotlib in Python, and R.
 Of these four programs, Gnuplot enables the most exquisite control over the appearance of the output. Matplotlib is a close second to Gnuplot, but the syntax of its scripting language is baffling at first.</p>
@@ -30,7 +30,7 @@ Of these four programs, Gnuplot enables the most exquisite control over the appe
 - <A href="https://en.wikipedia.org/wiki/Xfig"> Xfig, a venerable vector drawing program with dated gui</A>
 </body>
 
-### Related sites
+## Related sites
 - <A href="http://www.fileguru.com/downloads/nonlinear_curve_fitting/freeware"> List of curve fitting software </A>
 - <A href="http://statpages.org/nonlin.html"> Nonlinear Curve-Fitting, Webpage</a>
 - <A href="http://josiah.berkeley.edu/Instructional/NumbersFromGraphs/">Manual grabbing of data off a plot:</A> instructions for pdf-->svg-->grep x-y coordinates to text file. Easy to take snapshot (.jpg) of pdf file and use /Applications/plotdigitizer. </A>                                                                                                    
