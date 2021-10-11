@@ -6,7 +6,7 @@ Of these four programs, Gnuplot enables the most exquisite control over the appe
 
 - <A href="http://boomer.org"> boomer</A> a pharmokinetic package by David Bourne  Ph.D. OUHSC College of Pharmacy 
 - <A href="http://fityk.nieto.pl"> fityk</a> Now free. Nonlinear curve fitting for scientists. Available in macports.
-- <A href="https://ggplot2.tidyverse.org/"> ggplot </a> Implements the grammar of graphics. Available in R and Python.
+- <A href="https://ggplot2.tidyverse.org/"> ggplot2 </a> Implements the grammar of graphics in R. See plotnine below for one several Python implementations.
 - <A href="http://en.wikipedia.org/wiki/Gnuplot"> gnuplot wikipedia</A> open source, free. Built by scientists. 
 - <A href="http://gnuplot.info"> Gnuplot main page </a> Do not be put off by the 1990s webpage. Underrated. Provides exquisite control over the output. Has a vast collection of examples and scripts. Available in macports. 
 - <A href="http://pdb.finkproject.org/pdb/package.php/qgfe"> qgfe</A> GUI for gnuplot</A> open source, free.
@@ -19,6 +19,7 @@ Of these four programs, Gnuplot enables the most exquisite control over the appe
 - <A href="http://synergy.com/curvefitting.htm?gclid=CN2ot7701K4CFQmMtgod83p-dw"> Kalidagraph </A>$$
 - <A href="https://matplotlib.org">Matplotlib</A> the leading Python plotting package. Built by scientists. 30+ high-level plotting package are built on top of it. These are great for quick plots but not always for publication. You need will need to master matplotlib eventually. Julia uses matplotlib for its main plotting package.
 - <A href="https://en.wikipedia.org/wiki/Matplotlib"> matplotlib, wikipedia </A>
+- <A href="https://github.com/has2k1/plotnine"> plotnine <a>, free, open source, ggplot2 for Python. Can make xkcd plots.
 - <A href="http://www.originlab.com/index.aspx?go=Products/Origin/DataAnalysis/CurveFitting/NonlinearFitting"> Origin </A>$$$
 - <A href="http://en.wikipedia.org/wiki/QtiPlot"> Qtiplot (like Origin but cheaper)</A>$
 - <A href="http://www.r-project.org/"> R project </A>Open source, free, available in macports and home brew.
