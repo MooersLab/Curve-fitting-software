@@ -18,7 +18,7 @@
 - <A href="http://www.slac.stanford.edu/grp/ek/hippodraw/"> HippoDraw </A> (open-source)
 - <A href="http://www.wavemetrics.com/products/igorpro/dataanalysis.htm"> IGOR pro  </A>$$
 - <A href="http://synergy.com/curvefitting.htm?gclid=CN2ot7701K4CFQmMtgod83p-dw"> Kalidagraph </A>$$
-- <A href="https://matplotlib.org">Matplotlib</A> the leading Python plotting package. Built by scientists. 30+ high-level plotting package are built on top of it. These are great for quick plots but not always for publication. You need will need to master matplotlib eventually. Julia uses matplotlib for its main plotting package.
+- <A href="https://matplotlib.org">Matplotlib</A> the leading Python plotting package. Built by scientists. 30+ high-level plotting package are built on top of it. The plots from the high-level are great for quick plots but often not for publication. You need will need to master matplotlib eventually. Julia uses matplotlib for its PyPlots package.
 - <A href="https://en.wikipedia.org/wiki/Matplotlib"> matplotlib, wikipedia </A>
 - <A href="https://github.com/has2k1/plotnine"> plotnine <a>, free, open source, ggplot2 for Python. Can make xkcd plots.
 - <A href="http://www.originlab.com/index.aspx?go=Products/Origin/DataAnalysis/CurveFitting/NonlinearFitting"> Origin </A>$$$
@@ -29,8 +29,8 @@
 - <a href="https://en.wikipedia.org/wiki/SciDAVis"> SciDAVis</a>,free </a>
 - <A href="http://www.sigmaplot.com/"> SigmaPlot </A>$$$ 
 - <A href="http://home.gna.org/veusz"> Veusz </A> a scientific plotting program built with Python.</a> Open-source, free. Like Matplotlib but with attractive GUI.
-- <A href="http://www.softzymics.com/order.asp">  VisualEnzymics 2010, requires Igor Pro </A>$$
-- <A href="https://en.wikipedia.org/wiki/Xfig"> Xfig, a venerable vector drawing program with dated gui</A>
+- <A href="http://www.softzymics.com/order.asp">  VisualEnzymics</A>, requires Igor Pro $$
+- <A href="https://en.wikipedia.org/wiki/Xfig"> Xfig</A>, a venerable vector drawing program with dated gui
 </body>
 
 ## Related sites
