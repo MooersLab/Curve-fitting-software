@@ -1,8 +1,8 @@
 
 # Links to free and proprietary curve fitting software. 
 
-<p>I recommend mastering curve fitting in one program that allows the use of scripts. The scripts facilitate reproducible work and thereby save time. Excellent free choices are Gnuplot, Grace, Matplotlib in Python, and R.
-Of these four programs, Gnuplot enables the most exquisite control over the appearance of the output. Matplotlib is a close second to Gnuplot, but the syntax of its scripting language is baffling at first. Curve fitting is also available in proprietary packages like Matlab, Mathematica, and JMP. Plots made in Excel are good rough drafts.</p>
+<p>I recommend mastering curve fitting in one program that allows the use of scripts. The scripts facilitate reproducible work and thereby save time. Excellent free choices are Gnuplot, Grace, Matplotlib in Python, PyPlots in Julia if coming from Python, Gadfly in Julia if coming from ggplot2, and R.
+Of these programs, Gnuplot enables the most exquisite control over the appearance of the output. Matplotlib is a close second to Gnuplot, but the syntax of its scripting language is baffling at first. Most of these programs also do curve fitting. Curve fitting is also available in proprietary packages like Matlab, Mathematica, and JMP. Plots made in Excel are good for rough drafts.</p>
 
 - <A href="http://boomer.org"> boomer</A> a pharmokinetic package by David Bourne  Ph.D. OUHSC College of Pharmacy 
 - <A href="http://fityk.nieto.pl"> fityk</a> Now free. Nonlinear curve fitting for scientists. Available in macports.
@@ -14,6 +14,8 @@ Of these four programs, Gnuplot enables the most exquisite control over the appe
 - <A href="http://plasma-gate.weizmann.ac.il/Grace/"> Grace </A> (open-source) 
 - <A href="https://en.wikipedia.org/wiki/Xmgrace"> Grace (xmgrace or xmgr), wikipedia </A> open source, free.
 - <A href="http://www.graphpad.com/welcome.htm"> GraphPad </A> $$$ Requries an annual license.
+- <A href="http://gadflyjl.org/stable/"> Julia: Gadfly,jl </A> 
+- <A href="https://docs.juliaplots.org/latest/generated/pyplot/"> Julia: PyPlot.jl </A> 
 - <A href="http://www.slac.stanford.edu/grp/ek/hippodraw/"> HippoDraw </A> (open-source)
 - <A href="http://www.wavemetrics.com/products/igorpro/dataanalysis.htm"> IGOR pro  </A>$$
 - <A href="http://synergy.com/curvefitting.htm?gclid=CN2ot7701K4CFQmMtgod83p-dw"> Kalidagraph </A>$$
