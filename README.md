@@ -22,13 +22,16 @@
 - <A href="https://en.wikipedia.org/wiki/Matplotlib"> matplotlib, wikipedia </A>
 - <A href="https://en.numere.org"> NumerRe </A>, provides curve fitting, data analysis and numerical calculation in one package. Free, open-source, GLP'ed, executable for MS Windows only. Source code is available. Ports to other operating systems are welcomed.
 - <A href="http://www.originlab.com/index.aspx?go=Products/Origin/DataAnalysis/CurveFitting/NonlinearFitting"> Origin </A>$$$
+- <a href="https://github.com/metasoarous/oz"> OZ, a clojure data visuallization package the uses Vega and VegaLite.
 - <a href="https://github.com/has2k1/plotnine"> plotnine <a>, free, open source, ggplot2 for Python. Can make xkcd plots.
 - <A href="http://en.wikipedia.org/wiki/QtiPlot"> Qtiplot (like Origin but cheaper)</A>$
 - <A href="http://www.r-project.org/"> R project </A>Open source, free, available in macports and home brew.
 - <A href="https://en.wikipedia.org/wiki/R_(programming_language)"> R wiki </A>
 - <A href="https://rstudio.com"> Rstudio</a>, browser-like interface to R that supports plotting with R</a>
-- <a href="https://en.wikipedia.org/wiki/SciDAVis"> SciDAVis</a>,free </a>
+- <a href="https://en.wikipedia.org/wiki/SciDAVis"> SciDAVis</a>,free
+- <A href="https://seaborn.pydata.org/"> seaborn </A>, high-level wrapper for Matplotlib in Python. 
 - <A href="http://www.sigmaplot.com/"> SigmaPlot </A>$$$ 
+- <A href="https://vega.github.io/vega-lite/"> Vega-lite </A>, a high-level grammar of interactive graphics. Based on Javascript.
 - <A href="http://home.gna.org/veusz"> Veusz </A> a scientific plotting program built with Python.</a> Open-source, free. Like Matplotlib but with attractive GUI.
 - <A href="http://www.softzymics.com/order.asp">  VisualEnzymics</A>, requires Igor Pro $$
 - <A href="https://en.wikipedia.org/wiki/Xfig"> Xfig</A>, a venerable vector drawing program with dated gui
