@@ -30,10 +30,11 @@
 - <A href="http://www.originlab.com/index.aspx?go=Products/Origin/DataAnalysis/CurveFitting/NonlinearFitting"> Origin </A>$$$
 - <a href="https://github.com/metasoarous/oz"> OZ, a clojure data visuallization package the uses Vega and VegaLite.
 - <a href="https://github.com/has2k1/plotnine"> plotnine <a>, free, open source, ggplot2 for Python. Can make xkcd plots.
+- <A href="https://sourceforge.net/projects/qtgrace/"> QtGrace </a>  Grace based on the Qt-SDK by the qt-project. Available for Mac, Windows, and Linux.
 - <A href="http://en.wikipedia.org/wiki/QtiPlot"> Qtiplot (like Origin but cheaper)</A>$
 - <A href="http://www.r-project.org/"> R project </A>Open source, free, available in macports and home brew.
 - <A href="https://en.wikipedia.org/wiki/R_(programming_language)"> R wiki </A>
-- <A href="https://rstudio.com"> Rstudio</a>, browser-like interface to R that supports plotting with R</a>
+- <A href="https://rstudio.com"> Rstudio (Posit) </a>, browser-like interface to R that supports plotting with R</a>
 - <a href="https://en.wikipedia.org/wiki/SciDAVis"> SciDAVis</a>,free
 - <A href="https://seaborn.pydata.org/"> seaborn </A>, high-level wrapper for Matplotlib in Python. 
 - <A href="http://www.sigmaplot.com/"> SigmaPlot </A>$$$ 
