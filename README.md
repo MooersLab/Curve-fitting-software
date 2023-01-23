@@ -16,6 +16,7 @@
 - <A href="http://www.graphpad.com/welcome.htm"> GraphPad </A> $$$ Requries an annual license.
 - <A href="http://gadflyjl.org/stable/"> Julia: Gadfly.jl </A>
 - <A href="https://github.com/jsa-aerial/hanami"> Hanami,</A> a Clojure(Script) library and framework for creating interactive visualization applications based in Vega-Lite (VGL) and/or Vega (VG) specifications. 
+- <A href="https://www.jmp.com/en_us/home.html"> JMP </A> $$ GUI-driven program developed by the makers of SAS. Has excellent documentation.
 - <A href="https://docs.juliaplots.org/latest/generated/pyplot/"> Julia: PyPlot.jl </A> 
 - <A href="http://www.slac.stanford.edu/grp/ek/hippodraw/"> HippoDraw </A> (open-source)
 - <A href="http://www.wavemetrics.com/products/igorpro/dataanalysis.htm"> IGOR pro  </A>$$
