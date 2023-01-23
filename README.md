@@ -20,7 +20,7 @@
 - <A href="http://synergy.com/curvefitting.htm?gclid=CN2ot7701K4CFQmMtgod83p-dw"> Kalidagraph </A>$$
 - <A href="https://matplotlib.org">Matplotlib</A> the leading Python plotting package. Built by scientists. 30+ high-level plotting package are built on top of it. The plots from the high-level are great for quick plots but often not for publication. You need will need to master matplotlib eventually. Julia uses matplotlib for its PyPlots package.
 - <A href="https://en.wikipedia.org/wiki/Matplotlib"> matplotlib, wikipedia </A>
-- <A href="https://en.numere.org"> NumerRe </A>, provides curve fitting, data analysis and numerical calculation in one package. Free, open-source, GLP'ed, for WindowsAdd.
+- <A href="https://en.numere.org"> NumerRe </A>, provides curve fitting, data analysis and numerical calculation in one package. Free, open-source, GLP'ed, executable for MS Windows only. Source code is available. Ports to other operating systems are welcomed.
 - <A href="http://www.originlab.com/index.aspx?go=Products/Origin/DataAnalysis/CurveFitting/NonlinearFitting"> Origin </A>$$$
 - <a href="https://github.com/has2k1/plotnine"> plotnine <a>, free, open source, ggplot2 for Python. Can make xkcd plots.
 - <A href="http://en.wikipedia.org/wiki/QtiPlot"> Qtiplot (like Origin but cheaper)</A>$
