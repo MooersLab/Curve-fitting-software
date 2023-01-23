@@ -38,7 +38,7 @@
 - <A href="https://seaborn.pydata.org/"> seaborn </A>, high-level wrapper for Matplotlib in Python. 
 - <A href="http://www.sigmaplot.com/"> SigmaPlot </A>$$$ 
 - <A href="https://vega.github.io/vega-lite/"> Vega-lite </A>, a high-level grammar of interactive graphics. Based on Javascript.
-- <A href="http://home.gna.org/veusz"> Veusz </A> a scientific plotting program built with Python.</a> Open-source, free. Like Matplotlib but with attractive GUI.
+- <A href="https://veusz.github.io/"> Veusz </A> a scientific plotting program built with Python.</a> Open-source, free. Like Matplotlib but with attractive GUI.
 - <A href="http://www.softzymics.com/order.asp">  VisualEnzymics</A>, requires Igor Pro $$
 - <A href="https://www.wolframalpha.com/input?i=real+plot+-%28sqrt%2825-y%5E2%29%29"> WolframAlpha </A> on-line access for plotting funcitons.
 - <A href="https://en.wikipedia.org/wiki/Xfig"> Xfig</A>, a venerable vector drawing program with dated gui
