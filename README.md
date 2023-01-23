@@ -19,6 +19,7 @@
 - <A href="https://docs.juliaplots.org/latest/generated/pyplot/"> Julia: PyPlot.jl </A> 
 - <A href="http://www.slac.stanford.edu/grp/ek/hippodraw/"> HippoDraw </A> (open-source)
 - <A href="http://www.wavemetrics.com/products/igorpro/dataanalysis.htm"> IGOR pro  </A>$$
+- <A href="https://jasp-stats.org/"> JASP, </A> supports GUI-driven frequentist and Bayesian data analysis </A>
 - <A href="http://synergy.com/curvefitting.htm?gclid=CN2ot7701K4CFQmMtgod83p-dw"> Kalidagraph </A>$$
 - <A href="https://matplotlib.org">Matplotlib</A> the leading Python plotting package. Built by scientists. 30+ high-level plotting package are built on top of it. The plots from the high-level are great for quick plots but often not for publication. You need will need to master matplotlib eventually. Julia uses matplotlib for its PyPlots package.
 - <A href="https://en.wikipedia.org/wiki/Matplotlib"> matplotlib, wikipedia </A>
