@@ -7,7 +7,7 @@
 - <A href="http://fityk.nieto.pl"> fityk</a> Now free. Nonlinear curve fitting for scientists. Available in macports.
 - <A href="https://ggplot2.tidyverse.org/"> ggplot2 </a> Implements the grammar of graphics in R. See plotnine below for one several Python implementations.
 - <A href="http://en.wikipedia.org/wiki/Gnuplot"> gnuplot wikipedia</A> open source, free. Built by scientists. 
-- <A href="http://gnuplot.info"> Gnuplot main page </a> Do not be put off by the 1990s webpage. Underrated. Provides exquisite control over the output. Has a vast collection of examples and scripts. Available in macports. 
+- <A href="http://gnuplot.info"> Gnuplot main page </a> Do not be put off by the 1990s webpage. The program deserves more love than it gets. Gnuplot provides more control over the output than any other program that I have tried. The Gnuplot website has a vast collection of examples and scripts. Gnuplot is available in through many package managers. Emacs has a gnuplot-mode and org-mode uses Ginuplot to make plots. The gnuplot scripting language supports iteration.
 - <A href="http://pdb.finkproject.org/pdb/package.php/qgfe"> qgfe</A> GUI for gnuplot</A> open source, free.
 - <A href="http://www.gnuplotting.org"> gnuplotting </A> A source of inspiration for Gnuplot users. 
 - <A href="http://plasma-gate.weizmann.ac.il/Grace/"> Grace </A> (open-source) 
