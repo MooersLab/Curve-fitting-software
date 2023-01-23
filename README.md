@@ -3,6 +3,7 @@
 
 <p>I recommend focusing on one program that allows the use of scripts. Mastery of one program takes time. After you master one program, mastery of the second will be easier. The scripts facilitate reproducible work and thereby save time in the long run. Excellent free choices are Gnuplot, Grace, Matplotlib in Python, PyPlots in Julia if coming from Python, Gadfly in Julia if coming from ggplot2, and R. Of these programs, Gnuplot enables the most exquisite control over the appearance of the output. Matplotlib is a close second to Gnuplot, but the syntax of its scripting language is baffling do beginners. You can save a lot of time by reading the beginning of the documentation and this <a href="https://www.computer.org/csdl/magazine/cs/2007/03/c3090/13rRUwbJD0A"> paper </a> by its originator, John Hunter. Most of these programs also do curve fitting. Curve fitting is also available in proprietary packages like Matlab, Mathematica, and JMP. To get the most of the propriety packages, you have to run them with scripts. Plots made in Excel are good for rough drafts.</p>
 
+- <A href="https://www.arviz.org/en/latest/"> ArviZ</a>, a high-level data visualization platform for Bayesian data analysis (BDA) with output form many BDA programs. Has Python and Julia ports. 
 - <A href="http://boomer.org"> boomer</A> a pharmokinetic package by David Bourne  Ph.D. OUHSC College of Pharmacy 
 - <A href="http://fityk.nieto.pl"> fityk</a> Now free. Nonlinear curve fitting for scientists. Available in macports.
 - <A href="https://ggplot2.tidyverse.org/"> ggplot2 </a> Implements the grammar of graphics in R. See plotnine below for one several Python implementations.
@@ -13,7 +14,8 @@
 - <A href="http://plasma-gate.weizmann.ac.il/Grace/"> Grace </A> (open-source) 
 - <A href="https://en.wikipedia.org/wiki/Xmgrace"> Grace (xmgrace or xmgr), wikipedia </A> open source, free.
 - <A href="http://www.graphpad.com/welcome.htm"> GraphPad </A> $$$ Requries an annual license.
-- <A href="http://gadflyjl.org/stable/"> Julia: Gadfly,jl </A> 
+- <A href="http://gadflyjl.org/stable/"> Julia: Gadfly.jl </A>
+- <A href="https://github.com/jsa-aerial/hanami"> Hanami,</A> a Clojure(Script) library and framework for creating interactive visualization applications based in Vega-Lite (VGL) and/or Vega (VG) specifications. 
 - <A href="https://docs.juliaplots.org/latest/generated/pyplot/"> Julia: PyPlot.jl </A> 
 - <A href="http://www.slac.stanford.edu/grp/ek/hippodraw/"> HippoDraw </A> (open-source)
 - <A href="http://www.wavemetrics.com/products/igorpro/dataanalysis.htm"> IGOR pro  </A>$$
