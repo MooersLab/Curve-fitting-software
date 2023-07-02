@@ -6,6 +6,7 @@
 - <A href="https://www.arviz.org/en/latest/"> ArviZ</a>, a high-level data visualization platform for Bayesian data analysis (BDA) with output form many BDA programs. Has Python and Julia ports. 
 - <A href="http://boomer.org"> boomer</A> a pharmokinetic package by David Bourne  Ph.D. OUHSC College of Pharmacy 
 - <A href="http://fityk.nieto.pl"> fityk</a> Now free. Nonlinear curve fitting for scientists. Available in macports.
+- <A href="http://gadflyjl.org/stable/"> Gadfly.jl </A>
 - <A href="https://ggplot2.tidyverse.org/"> ggplot2 </a> Implements the grammar of graphics in R. See plotnine below for one several Python implementations.
 - <A href="http://en.wikipedia.org/wiki/Gnuplot"> gnuplot wikipedia</A> open source, free. Built by scientists. 
 - <A href="http://gnuplot.info"> Gnuplot main page </a> Do not be put off by the 1990s webpage. The program deserves more love than it gets. Gnuplot provides more control over the output than any other program that I have tried. The Gnuplot website has a vast collection of examples and scripts. Gnuplot is available in through many package managers. Emacs has a gnuplot-mode and org-mode uses Ginuplot to make plots. The gnuplot scripting language supports iteration.
@@ -13,7 +14,6 @@
 - <A href="http://plasma-gate.weizmann.ac.il/Grace/"> Grace </A> (open-source) 
 - <A href="https://en.wikipedia.org/wiki/Xmgrace"> Grace (xmgrace or xmgr), wikipedia </A> open source, free.
 - <A href="http://www.graphpad.com/welcome.htm"> GraphPad </A> $$$ Requries an annual license.
-- <A href="http://gadflyjl.org/stable/"> Gadfly.jl </A>
 - <A href="https://github.com/jsa-aerial/hanami"> Hanami,</A> a Clojure(Script) library and framework for creating interactive visualization applications based in Vega-Lite (VGL) and/or Vega (VG) specifications. 
 - <A href="https://www.jmp.com/en_us/home.html"> JMP </A> $$$ GUI-driven program developed by the makers of SAS. Has excellent documentation.
 - <A href="http://www.slac.stanford.edu/grp/ek/hippodraw/"> HippoDraw </A> (open-source)
