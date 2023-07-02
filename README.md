@@ -16,7 +16,6 @@
 - <A href="http://gadflyjl.org/stable/"> Gadfly.jl </A>
 - <A href="https://github.com/jsa-aerial/hanami"> Hanami,</A> a Clojure(Script) library and framework for creating interactive visualization applications based in Vega-Lite (VGL) and/or Vega (VG) specifications. 
 - <A href="https://www.jmp.com/en_us/home.html"> JMP </A> $$$ GUI-driven program developed by the makers of SAS. Has excellent documentation.
-- <A href="https://docs.juliaplots.org/latest/generated/pyplot/"> Julia: PyPlot.jl </A> 
 - <A href="http://www.slac.stanford.edu/grp/ek/hippodraw/"> HippoDraw </A> (open-source)
 - <A href="http://www.wavemetrics.com/products/igorpro/dataanalysis.htm"> IGOR pro  </A>$$
 - <A href="https://jasp-stats.org/"> JASP, </A> supports GUI-driven frequentist and Bayesian data analysis </A>
@@ -31,6 +30,7 @@
 - <A href="http://www.originlab.com/index.aspx?go=Products/Origin/DataAnalysis/CurveFitting/NonlinearFitting"> Origin </A>$$$
 - <a href="https://github.com/metasoarous/oz"> OZ, a clojure data visuallization package the uses Vega and VegaLite.
 - <a href="https://github.com/has2k1/plotnine"> plotnine <a>, free, open source, ggplot2 for Python. Can make xkcd plots.
+- <A href="https://docs.juliaplots.org/latest/generated/pyplot/"> PyPlot.jl </A> 
 - <A href="https://sourceforge.net/projects/qtgrace/"> QtGrace </a>  Grace based on the Qt-SDK by the qt-project. Available for Mac, Windows, and Linux.
 - <A href="http://en.wikipedia.org/wiki/QtiPlot"> Qtiplot (like Origin but cheaper)</A>$
 - <A href="http://www.r-project.org/"> R project </A>Open source, free, available in macports and home brew.
