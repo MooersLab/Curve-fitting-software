@@ -20,7 +20,7 @@
 - <A href="http://www.wavemetrics.com/products/igorpro/dataanalysis.htm"> IGOR pro  </A>$$
 - <A href="https://jasp-stats.org/"> JASP, </A> supports GUI-driven frequentist and Bayesian data analysis </A>
 - <A href="http://synergy.com/curvefitting.htm?gclid=CN2ot7701K4CFQmMtgod83p-dw"> Kalidagraph </A>$$
--  <A href="https://labplot.kde.org/"> Labplot</A>, an easy-to-install and gui-driven, open-source curve-ftting application. <A href="https://https://www.youtube.com/channel/UCoxs-QOKb4SdIk4TMbrTzlQ)"> Has a YouTube channel</A>
+-  <A href="https://labplot.kde.org/"> Labplot</A>, an easy-to-install and gui-driven, open-source curve-ftting application. <A href="https://www.youtube.com/channel/UCoxs-QOKb4SdIk4TMbrTzlQ)"> Has a YouTube channel</A>
 - <A href="https://www.wolfram.com/mathematica/"> Mathematica, </a> $$$
 - <A href="https://www.mathworks.com/products/matlab.html"> Matlab </a> $$$
 - <A href="https://matplotlib.org">Matplotlib</A> the leading Python plotting package. Built by scientists. 30+ high-level plotting package are built on top of it. The plots from the high-level are great for quick plots but often not for publication. You need will need to master matplotlib eventually. Julia uses matplotlib for its PyPlots package.
