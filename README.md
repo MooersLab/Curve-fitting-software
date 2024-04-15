@@ -53,3 +53,15 @@
 - <A href="http://statpages.org/nonlin.html"> Nonlinear Curve-Fitting, Webpage</a>
 - <A href="http://josiah.berkeley.edu/Instructional/NumbersFromGraphs/">Manual grabbing of data off a plot:</A> instructions for pdf-->svg-->grep x-y coordinates to text file. Easy to take snapshot (.jpg) of pdf file and use /Applications/plotdigitizer. </A>                                                                                                    
 - <A href="http://plotdigitizer.sourceforge.net/">plotdigitizer</A>: a java program (ver. 2.5 in /Applications), bitmap (*.png) to vector converter, pick points or outline curve and record X,Y values for reploting in another program. Option for log scale. 
+
+## Funding Sources
+NIH: R01 CA242845, R01 AI088011
+NIH: P30 CA225520 (PI: R. Mannel); P20GM103640 and P30GM145423 (PI: A. West)
+OCAST HR20-002; 
+PHF Team Science Grant
+
+|Version      | Changes                                                                                                                                    | Date                 |
+|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+| Version 0.2 |  Added badges and update table                                                                                                             | 2024 April 15        |
+
+
