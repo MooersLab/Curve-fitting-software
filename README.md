@@ -1,3 +1,5 @@
+![Version](https://img.shields.io/static/v1?label=Curve-fitting-software&message=0.1&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # Links to free and proprietary curve fitting software. 
 
