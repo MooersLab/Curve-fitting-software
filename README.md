@@ -44,7 +44,8 @@ Matplotlib is a close second to Gnuplot, but the syntax of its scripting languag
 - <A href="https://rstudio.com"> Rstudio (Posit) </a>, browser-like interface to R that supports plotting with R</a>
 - <a href="https://en.wikipedia.org/wiki/SciDAVis"> SciDAVis</a>,free
 - <A href="https://seaborn.pydata.org/"> seaborn </A>, high-level wrapper for Matplotlib in Python. 
-- <A href="http://www.sigmaplot.com/"> SigmaPlot </A>$$$ 
+- <A href="http://www.sigmaplot.com/"> SigmaPlot </A>$$$
+- <A href="https://www.standardsapplied.com/nonlinear-curve-fitting-calculator.html"> Standards Applied.com </a> nonLinear-curve-fitting-calculator. This is very cool!!
 - <A href="https://vega.github.io/vega-lite/"> Vega-lite </A>, a high-level grammar of interactive graphics. Based on Javascript.
 - <A href="https://veusz.github.io/"> Veusz </A> a scientific plotting program built with Python.</a> Open-source, free. Like Matplotlib but with an attractive GUI.
 - <A href="http://www.softzymics.com/order.asp">  VisualEnzymics</A>, requires Igor Pro $$
