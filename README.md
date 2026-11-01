@@ -3,10 +3,10 @@
 
 # Links to free and proprietary curve fitting software. 
 
-<p>I recommend focusing on one program that supports scripting. 
+<p>I recommend focusing on one scripting-capable program. 
 Mastery of one program takes time. 
 After you master one program, learning the second will take less effort.
-Scripts enable reproducible work and, in the long run, save time. Excellent free choices are Gnuplot, Grace, Matplotlib in Python, PyPlots in Julia from Python, Gadfly in Julia from **ggplot2** and **R**. Of these programs, Gnuplot offers the most exquisite control over the output's appearance. 
+Scripts enable reproducible work and, in the long run, save time. Excellent free choices are Gnuplot, Grace, Matplotlib in Python, PyPlots in Julia from Python, Gadfly in Julia from **ggplot2** in **R**. Of these programs, Gnuplot offers the most exquisite control over the output's appearance. 
 Matplotlib is a close second to Gnuplot, but its scripting syntax baffles beginners. You can save a lot of time by reading the beginning of the documentation and this <a href="https://www.computer.org/csdl/magazine/cs/2007/03/c3090/13rRUwbJD0A"> paper </a> by its originator, John Hunter. Most of these programs also do curve fitting. Proprietary packages like MATLAB, Mathematica, and JMP also offer curve fitting. To get the most out of the proprietary packages, you have to run them with scripts. Plots made in high-level packages are good for rough drafts but can be made publication-quality with extensive customization.</p>
 
 - <A href="https://www.arviz.org/en/latest/"> ArviZ</a>, a high-level data visualization platform for Bayesian data analysis (BDA) with output from many BDA programs. Has Python and Julia ports. 
